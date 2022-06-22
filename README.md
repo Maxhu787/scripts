@@ -1,2 +1,1 @@
-# cpp-stuff
-trying to learn cpp
+contains a lot of scripts and trash
