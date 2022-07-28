@@ -1,5 +1,5 @@
 # Scripts
 
-This repo contains a lot of scripts and trash that MIGHT be useful <br />
-Most of which are either in chinese or just partially finished <br />
+This repo contains a lot of scripts and trash from all places that MIGHT be useful <br />
+Most of which are either in chinese, partially finished or just trash <br />
 You can do whatevery you want with it : ]
