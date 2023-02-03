@@ -1,0 +1,4 @@
+#hack-on
+alias hack-on='sudo cp /home/pi/Downloads/libhackgmc.so /opt/minecraft-pi-reborn-client/mods/libhackgmc.so
+#hack-off
+alias hack-off='sudo rm /opt/minecraft-pi-reborn-client/mods/libhackgmc.so'

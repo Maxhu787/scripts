@@ -1,0 +1,11 @@
+Put libhackgmc.so in your home folder :)
+
+Copy and past the fallowing lines in terminal if you want to enable creative hacks
+
+cd ~
+sudo mv libhackgmc.so /opt/minecraft-pi-reborn-client/mods
+
+Copy and past the fallowing lines in terminal if you want to dissalbe creative hacks
+
+cd /opt/minecraft-pi-reborn-client/mods
+sudo mv libhackgmc.so ~
